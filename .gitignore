@@ -1,0 +1,4 @@
+*.jpg
+*.mkv
+__pycache__/*
+*~
